@@ -34,6 +34,5 @@ public class CountLetters {
         System.out.println("In \"" + word + "\", we have " + count + " \'" + letter + "\' chracter"  );
 
 
-
     }
 }
